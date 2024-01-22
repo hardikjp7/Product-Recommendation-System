@@ -34,6 +34,6 @@ pip install numpy pandas matplotlib sklearn
 
 ### LinkedIn
 
-Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&colorB=2867B2)](https://www.linkedin.com/in/your-linkedin-profile)
+Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&colorB=2867B2)](https://www.linkedin.com/in/hardikjp/)
 
 Feel free to adapt and customize the code according to your specific business requirements. This recommendation system is designed to offer flexibility and effectiveness in providing recommendations to users with or without purchase history.
